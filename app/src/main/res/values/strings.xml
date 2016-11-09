@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idade de cachorro</string>
+    <string name="pergunta_idade_text">Qual é a idade do seu cachorro?</string>
+    <string name="btnGerarIdade">Gerar idade</string>
+</resources>
